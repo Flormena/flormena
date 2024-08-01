@@ -1,0 +1,15 @@
+---
+title: "data_prueba_1"
+output: html_document
+date: "2024-08-01"
+---
+
+
+```{r}
+library(dplyr)
+library(readxl)
+
+form_prueba <- read_excel("data/form_prueba.xlsx")
+glimpse(form_prueba)
+```
+

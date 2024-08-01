@@ -3,6 +3,12 @@
 .RData
 .Ruserdata
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+.DS_Store
+data/
+
+>>>>>>> Stashed changes
 =======
 .DS_Store
 data/
