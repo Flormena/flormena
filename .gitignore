@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< Updated upstream
+=======
+.DS_Store
+data/
+
+>>>>>>> Stashed changes
