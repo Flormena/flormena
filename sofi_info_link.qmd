@@ -1,0 +1,83 @@
+---
+format: 
+  html:
+    embed-resources: true
+    toc: true                # Habilita la tabla de contenidos
+    toc-title: "Índice de Contenidos"  # Título del índice
+    toc-depth: 3             # Nivel de profundidad del índice (hasta h3)
+    toc-location: left       # Ubicación del índice (izquierda)
+footnotes-hover: true # muestra notas al pie
+smooth-scroll: true # suaviza el scroll
+editor: visual
+code-copy: true            # Permite copiar el código desde el documento
+execute:
+  warning: false
+  message: false
+  echo: true  # Oculta el código en los chunks
+include-in-header: head_sofi.html
+css: CSS/style.css
+---
+
+# **Cartilla de información**
+
+## **Dinámica y técnicas:**
+
+-   Son **talleres semanales de 2 ½ hs. de duración**. Dentro del horario hay que contemplar el guardado de las piezas y orden del espacio.
+
+-   La **dinámica para aplicar las distintas técnicas es libre** en función del proyecto que cada uno quiera desarrollar.
+
+-   Se trabaja con **diferentes técnicas de modelado a mano** (chorizo, cinta, placa, pellizco, macizo ahuecado, entre otras)  y en torno alfarero.
+
+-   **Conoceremos diferentes técnicas decorativas**, aplicándolas oportunamente a las piezas que cada una tenga interés de ejecutar.
+
+-   **Torno**: en el taller se dispone de un torno, el cual será compartido con las demás personas del taller.
+
+## **Cuota**
+
+-   El **valor mensual del taller es de \$ 45.000**
+
+-   La reserva de cupo se realiza con una seña del 20% del valor de la cuota (la seña no tiene devolución)
+
+-   **Se debe abonar del día 1 al 10 de cada mes**. Después de esa fecha el valor se incrementará un 10%
+
+-   La cuota se actualizará cada 3 meses.
+
+<!-- -->
+
+-   Pago del taller es por mes completo, no por jornadas asistidas.
+
+-   Si se decide no continuar con el taller se debe avisar con un mes de anticipación y así poder disponer de ese lugar vacante. En caso de no avisar se deberá abonar el pago del mes.
+
+    ::: {style="border: 2px solid #f4e791; /* Grosor y color del borde */   background-color: #f4e791; /* Color de fondo */   padding: 10px; /* Espacio interior */   margin: 20px; /* Espacio exterior */   border-radius: 5px; /* Esquinas redondeadas (opcional) */"}
+    #### **El valor del taller incluye**
+
+    -   Uso de herramientas, delantales y maquinarias del taller
+
+    <!-- -->
+
+    -    Horneado de 4 piezas mensuales realizadas en el taller (no son acumulativas)
+
+    -    Engobes y esmalte (transparente o blanco) de esas piezas.
+
+    -   Carga y descarga del horno, recuperación de pasta, cuidado de las piezas por fuera del horario del taller, entre otras tareas.
+    :::
+
+## **Materiales y horneadas**
+
+-   **El valor del taller incluye horneado de 4 piezas medianas** (esto se realiza cuando se completa la carga del horno con las piezas, no necesariamente de una semana para la otra).
+
+-   Los materiales (pasta, óxidos, pigmentos bajo cubierta) podrán tráelo por su cuenta o podrán comprarlo en el taller.
+
+-   En caso de querer hornear **piezas que no han sido elaboradas en el taller se cobra aparte,** siempre priorizando en cargar primero las piezas de los talleres.
+
+## **Asistencia y recuperación**
+
+-   Faltas: **Es posible recuperar 1(una) falta por mes (con previo aviso)** en otros días y horarios de taller, dependiendo esto de la disponibilidad de lugar.
+
+-   **Las faltas no son acumulables** de un mes a otro.
+
+-   **Los días feriados no se dictará taller** y estos no se recuperan.
+
+-   Solo se reprograman días de taller en caso de que la clase sea suspendida, lo cual serán acordados con el grupo.
+
+-   **Receso: en el mes de julio** se abona la cuota completa y está contemplado una semana de receso
